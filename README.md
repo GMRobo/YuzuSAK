@@ -1,4 +1,4 @@
-# RyuSAK
+# YuzuSAK
 
 ![showDownloads](https://img.shields.io/github/downloads/Ecks1337/RyuSAK/total?style=for-the-badge)
 ![showVersion](https://img.shields.io/github/package-json/v/Ecks1337/RyuSAK?style=for-the-badge)
@@ -9,33 +9,34 @@
 </p>
 
 ## Installation
-Just go to the [releases](https://github.com/Ecks1337/RyuSAK/releases) page and download the latest build for your OS.
-The Windows build also comes with an auto update feature.
+**Build Unavailable**
 
 ### Windows
 
 #### Install
-Download the `RyuSAK-X.Y.Z.Setup.exe` file, then install it by running the installer
+**Build Unavailable**
 
 #### Portable
-Download the `RyuSAK-win32-x64-X.Y.Z.zip` file, then unzip it to your chosen location
+**Build Unavailable**
 
 ### Linux
 
+**Build Unavailable**
+
 #### Arch Linux
-Soon™
+**Build Unavailable**
 
 #### Debian
-Download the `ryusak_X.Y.Z_amd64.deb` file, then install it with `sudo dpkg -i ./ryusak_X.Y.Z_amd64.deb`
+**Build Unavailable**
 
 #### Red Hat Linux
-Download the `RyuSAK-X.Y.Z-1.x86_64.rpm` file, then install it with `sudo rpm -i /RyuSAK-X.Y.Z-1.x86_64.rpm`
+**Build Unavailable**
 
 #### Portable
-Download the `RyuSAK-linux-x64-X.Y.Z.zip` file, then unzip it to your chosen location
+**Build Unavailable**
 
 ## Features
-* Add one or multiple Ryujinx folders (where `Ryujinx.exe` is located) to manage different builds (such as mainline, portable, LDN, etc.) 
+* Add one or multiple yuzu folders (where `yuzu.exe` is located) to manage different builds (such as mainline, or Early Access) 
 * List your game library
 * Display your local shaders count & RyuSAK shaders count (to download them if you have fewer shaders)
 * Update firmware
