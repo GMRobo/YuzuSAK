@@ -1,8 +1,8 @@
 # YuzuSAK
 
-![showDownloads](https://img.shields.io/github/downloads/Ecks1337/RyuSAK/total?style=for-the-badge)
-![showVersion](https://img.shields.io/github/package-json/v/Ecks1337/RyuSAK?style=for-the-badge)
-![showLicense](https://img.shields.io/github/license/Ecks1337/RyuSAK?style=for-the-badge)
+![showDownloads](https://img.shields.io/github/downloads/alerion921/YuzuSAK/total?style=for-the-badge)
+![showVersion](https://img.shields.io/github/package-json/v/alerion921/YuzuSAK?style=for-the-badge)
+![showLicense](https://img.shields.io/github/license/alerion921/YuzuSAK?style=for-the-badge)
 
 <p align="center">
   <img width="80%" alt="screenshot" src="https://raw.githubusercontent.com/Ecks1337/RyuSAK/master/screenshot.png" />
